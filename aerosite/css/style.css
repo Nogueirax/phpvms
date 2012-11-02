@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+background-color: #a1bad1;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 11px;
+} 
+
+.box {
+	width: 1000px;
+	margin:auto;
+}
+
+.top {
+	height: 60px;
+	width: 1000px;
+	border-radius: 10px;
+	background-color:#FFF;
+}
+logo {
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+	float:left;
+}
+social {
+	float:right;
+	width:150px;
+	margin-top:5px;
+	margin-right:5px;
+	
+}
+#social-buttons img {
+opacity: 0.3;
+
+}
+#social-buttons img:hover {
+opacity: 1;
+}
+A:link {text-decoration: none; color:#00b4e0}
+A:visited {text-decoration: none; color:#00b4e0}
+A:active {text-decoration: none; color:#00b4e0}
+A:hover {text-decoration: underline;; color:#00b4e0}
+
+#sidebar {
+	float:left;
+	width:250px;
+	
+
+	}
+	
+t1	{
+	font-family: Arial;
+	color:#00b4e0;
+	font-size: 16px;
+	font-style:normal;
+	margin-left:29px;
+}
+
+.smile {
+	background:url(http://www.flyaero.co.uk/en/lib/skins/aerosite/images/stitle.png);
+	background-repeat:no-repeat;
+	margin:0;
+	padding-top:6px;
+	margin-left:4px;
+
+}
+.line {
+border-top: 1px dotted #666;
+margin-top: 1px;
+margin-bottom:0;
+}
+
+#sidebox
+ {
+	 border-radius: 10px;
+	background-color:#FFF;
+	margin-top:5px;
+	padding-bottom:8px;
+ }
+ 
+ #banner {
+	 width:740px;
+	 height:70px;
+
+	 float:right;
+	 margin-top:5px;
+ }
+
+ #main {
+	
+	 padding-left:5px;
+	 padding-right:5px;
+	 margin-top:5px;
+	 width:730px;
+	 float:right;
+	 border-radius: 10px;
+	 background-color:#FFF;
+ }
+
+.footer {
+	width:1000px;
+	height:15px;
+	background-color:#00b4e0;
+	background-repeat:no-repeat;
+	float:left;
+	margin-left:auto;
+	color:#FFFFFF;
+	border-radius: 10px;
+	margin-top:5px;
+	text-align:center;
+}
+	#nav {
+	width: 1000px;
+	height:20px;
+	float: left;
+	margin: 5px 0 0px 0;
+	padding: 0 0 0 0;
+	list-style: none;
+	font-size:14px;
+	background-color: #00b4e0;
+	border-radius: 10px;
+	 }
+#nav li {
+	float: left;
+		height:20px;}
+#nav li a {
+	display: block;
+	padding-left:8px;
+	padding-top:1px;
+	padding-right:8px;
+	text-decoration: none;
+	font-weight: bold;
+		height:20px;
+	color: #FFF;
+	border-right: 1px solid #ccc; }
+#nav li a:hover {
+	color: #00b4e0;
+	background-color: #fff;
+		height:20px;
+	
+	 }
+#nav li home a:hover {
+	color: #00b4e0;
+	border-radius: 9px 0px 0px 9px;
+	background-color: #fff;
+	height:20px;
+	 }
