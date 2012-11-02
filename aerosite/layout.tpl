@@ -89,7 +89,7 @@
 <div id="main"/>
 <?php echo $page_content;?>
 </div>
-<div class="footer"/> Copyright FlyAero 2012 - 2013 | All rights reserved | Powered by PHPVMS</div>
+<div class="footer"/> Copyright FlyAero 2012 - 2013 | All rights reserved | Powered by PHPVMS | Skin by Jacob Axford</div>
 </div>
 </div>
 </body>
